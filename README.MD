@@ -1,3 +1,9 @@
+# Project archived: moved to PSPublishModule
+
+PSMaintenance has been retired and its documentation functionality has moved into [PSPublishModule](https://github.com/EvotecIT/PSPublishModule), backed by reusable PowerForge services. Use the PSPublishModule cmdlets such as `Get-ModuleDocumentation`, `Show-ModuleDocumentation`, `Install-ModuleDocumentation`, `Set-ModuleDocumentation`, and `Install-ModuleScript` for ongoing work.
+
+This repository is kept read-only for historical reference. No new fixes or features are planned here.
+
 # PSMaintenance
 
 Rich documentation viewer/installer for PowerShell modules.
